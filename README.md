@@ -19,8 +19,8 @@ In our work, we have adopted the approach outlined by [Vilares et al.](https://g
   author={Al-Ghamdi, Sharefah and Al-Khalifa, Hend and Al-Salman, Abdulmalik},  
   booktitle={Proceedings of the 6th Workshop on Open-Source Arabic Corpora and Processing Tools},  
   year={2024}  
-}  
-
+}
+```
 # Contact information
 ---
 For help or issues send an email to SHAREFAH at KSU dot EDU dot SA.
