@@ -1,7 +1,17 @@
 # Root_POS_Identification
 ---
 This is the python implementaion of our work here:
-"A Novel Approach for Root Selection in the Dependency Parsing"
+"A Novel Approach for Root Selection in the Dependency Parsing"  
+# Requirements
+Python 3
+
+*requirements.txt:*
+tqdm==4.30.0  
+scikit-learn==1.0  
+nltk==3.4.5  
+torch==1.6.0  
+pytorch-pretrained-bert==0.4.0  
+seaborn==0.9.0 
 
 # Datasets
 ---
@@ -10,7 +20,7 @@ AR CATiB: [here](https://camel-guidelines.readthedocs.io/en/latest/syntax/)
 AR PADT | EL GDT | EN EWT | FR ParTUT | TA TTB | TR IMST | ZH GSD : [here](https://universaldependencies.org/)  
 
 # Parsing as Sequence labeling 
-In our work, we have adopted the approach outlined by [Vilares et al.](https://github.com/aghie/parsing-as-pretraining), utilizing their code as a foundation. Additionally, it is pertinent to acknowledge the contributions of [Strzyz et al](https://github.com/mstrise/dep2label). for their influential work in the field. Our methodology also aligns with the findings presented in our research article available on [MDPI] (https://www.mdpi.com/2076-3417/13/7/4225), which further substantiates our approach.  
+In our work, we have adopted the approach outlined by [Vilares et al.](https://github.com/aghie/parsing-as-pretraining), utilizing their code as a foundation. Additionally, it is pertinent to acknowledge the contributions of [Strzyz et al](https://github.com/mstrise/dep2label). for their influential work in the field. Our methodology also aligns with the findings presented in our research article available on [MDPI](https://www.mdpi.com/2076-3417/13/7/4225), which further substantiates our approach.   
 # Citation
 ---
 ```bibtex 
@@ -20,7 +30,7 @@ In our work, we have adopted the approach outlined by [Vilares et al.](https://g
   booktitle={Proceedings of the 6th Workshop on Open-Source Arabic Corpora and Processing Tools},  
   year={2024}  
 }
-```
+```  
 # Contact information
 ---
 For help or issues send an email to SHAREFAH at KSU dot EDU dot SA.
