@@ -4,12 +4,7 @@ This folder contains the code for the PADT Universal Treebank. Should you requir
 
 # How to Run the Code
 
-1. Navigate to the Colab notebook by clicking on the badge below:
-2.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg%29)](Your_Colab_Notebook_URL)
-
-3.
-4.
-5. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg%29)](https://colab.research.google.com/drive/11IACgjNyjIfoE0-hSX8SaAjMmYKgYkuL?usp=drive_link)
+1. Navigate to the Colab notebook by clicking on the badge below:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg%29)](https://colab.research.google.com/drive/11IACgjNyjIfoE0-hSX8SaAjMmYKgYkuL?usp=drive_link)
 
 6. Upload the `post_pos_RI_PADT.zip` folder containing your data and the two `.csv` result files (`test_results.csv` and `dev_results.csv`).
 
