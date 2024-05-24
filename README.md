@@ -5,9 +5,9 @@ This is the python implementaion of our work here:
 
 # Datasets
 ---
-AR ArPoT: [here](https://github.com/Sharefah-Alghamdi/ArPoT)
-AR CATiB: [here](https://camel-guidelines.readthedocs.io/en/latest/syntax/)
-AR PADT | EL GDT | EN EWT | FR ParTUT | TA TTB | TR IMST | ZH GSD : [here](https://universaldependencies.org/)
+AR ArPoT: [here](https://github.com/Sharefah-Alghamdi/ArPoT)  
+AR CATiB: [here](https://camel-guidelines.readthedocs.io/en/latest/syntax/)  
+AR PADT | EL GDT | EN EWT | FR ParTUT | TA TTB | TR IMST | ZH GSD : [here](https://universaldependencies.org/)  
 
 # Contact information
 ---
