@@ -5,7 +5,7 @@ This is the python implementaion of our work here:
 # Requirements
 Python 3
 
-*requirements.txt:*
+**requirements.txt:**  
 tqdm==4.30.0  
 scikit-learn==1.0  
 nltk==3.4.5  
