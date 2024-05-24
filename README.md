@@ -33,5 +33,5 @@ In our work, we have adopted the approach outlined by [Vilares et al.](https://g
 ```  
 # Contact information
 ---
-For help or issues send an email to SHAREFAH at KSU dot EDU dot SA.
+For help or issues send an email to sharefah@ksu.edu.sa.
 
